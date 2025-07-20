@@ -4,35 +4,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry width="480" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Lambda Expressions - Java default Functional Interfaces&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aGyHzL2mun_F8L45ezG5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F19C99;" edge="1" parent="1" source="MZ2fn7TXdCOlkScp6uKp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcccc;strokeColor=#F19C99;" edge="1" parent="1" source="MZ2fn7TXdCOlkScp6uKp-2" target="MZ2fn7TXdCOlkScp6uKp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Lambda Expressions - Java default Functional Interfaces&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="90" y="20" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="140" height="150" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="20" y="100" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="190" y="100" width="120" height="150" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="180" y="100" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="330" y="100" width="120" height="150" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="335" y="100" width="135" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Consumer Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="115" width="100" height="25" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Consumer Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="115" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Function Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Function Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="115" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Predicate Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="115" width="100" height="25" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Predicate Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="115" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; 1) Consumer&amp;lt;T&amp;gt; - Accepts one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="150" width="140" height="30" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; 1) Consumer&amp;lt;T&amp;gt; - Accepts one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiConsumer&amp;lt;T, U&amp;gt; - Accepts two&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;input&amp;nbsp; parameters, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="140" height="30" as="geometry" />
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiConsumer&amp;lt;T, U&amp;gt; - Accepts two&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;input&amp;nbsp; parameters, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1) Function&amp;lt;T,R&amp;gt; - Apply&amp;nbsp; one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns given datatype.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiFunction&amp;lt;T,U,R&amp;gt; - Apply two&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;input parameter, returns given&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;datatype.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1) Predicate&amp;lt;T&amp;gt; - Test&amp;nbsp; one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns boolean.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) Predicate&amp;lt;T, U&amp;gt; - Test&amp;nbsp; two inputs&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns boolean.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyHzL2mun_F8L45ezG5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcccc;strokeColor=#F19C99;" edge="1" parent="1" source="MZ2fn7TXdCOlkScp6uKp-2" target="MZ2fn7TXdCOlkScp6uKp-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
