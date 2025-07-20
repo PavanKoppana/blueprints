@@ -36,22 +36,22 @@
         <mxCell id="MZ2fn7TXdCOlkScp6uKp-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Predicate Interfaces&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="115" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="MZ2fn7TXdCOlkScp6uKp-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; 1) Consumer&amp;lt;T&amp;gt; - Accepts one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MZ2fn7TXdCOlkScp6uKp-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1) Consumer&amp;lt;T&amp;gt; - Accepts one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZ2fn7TXdCOlkScp6uKp-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiConsumer&amp;lt;T, U&amp;gt; - Accepts two&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; input&amp;nbsp; parameters, returns nothing.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="200" width="140" height="30" as="geometry" />
+          <mxGeometry x="20" y="190" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aGyHzL2mun_F8L45ezG5-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1) Function&amp;lt;T,R&amp;gt; - Apply&amp;nbsp; two input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;parameter, one is return type..&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aGyHzL2mun_F8L45ezG5-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiFunction&amp;lt;T,U,R&amp;gt; - Apply three&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;input parameter, one is return&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;type.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="140" height="30" as="geometry" />
+          <mxGeometry x="180" y="190" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aGyHzL2mun_F8L45ezG5-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1) Predicate&amp;lt;T&amp;gt; - Test&amp;nbsp; one input&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; parameter, returns boolean.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aGyHzL2mun_F8L45ezG5-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiPredicate&amp;lt;T, U&amp;gt; - Test&amp;nbsp; two inputs&amp;nbsp; parameter, returns&amp;nbsp; &amp;nbsp; boolean.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aGyHzL2mun_F8L45ezG5-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;2) BiPredicate&amp;lt;T, U&amp;gt; - Test&amp;nbsp; two&amp;nbsp; &amp;nbsp;inputs&amp;nbsp; parameter, returns&amp;nbsp; &amp;nbsp; &amp;nbsp;boolean.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="190" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aGyHzL2mun_F8L45ezG5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcccc;strokeColor=#F19C99;" edge="1" parent="1" source="MZ2fn7TXdCOlkScp6uKp-2" target="MZ2fn7TXdCOlkScp6uKp-4">
