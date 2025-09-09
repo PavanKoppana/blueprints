@@ -69,6 +69,18 @@
         <mxCell id="I6mNdygkwJl96-a7Lb6P-18" value="&lt;b&gt;Java Streams&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="I6mNdygkwJl96-a7Lb6P-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Input&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="150" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I6mNdygkwJl96-a7Lb6P-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="150" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I6mNdygkwJl96-a7Lb6P-22" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;reader&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="150" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I6mNdygkwJl96-a7Lb6P-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;writer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="150" width="65" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
